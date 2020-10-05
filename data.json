@@ -1,0 +1,51 @@
+{
+    "paragraphs": [
+        "CHILDREN OF LIGHT is an agency focused on building brands globally.",
+        "We are dedicated to leveraging brand intelligence to develop meaningful content and engage people with actionable brand experiences that spark human connection in this digital era.",
+        "CHILDREN OF LIGHT turns stories into conversations, impressions into relationships, and campaigns into results. We partner with companies to bring clarity to their brand identity in order to build a personalised marketing plan and foster genuine customer experiences."
+    ],
+    "contact": {
+        "title": "Contact",
+        "emails": [
+            {
+                "label": "Paris",
+                "email": "ting@childrenoflight.net"
+            },
+            {
+                "label": "Beijing",
+                "email": "vicky@childrenoflight.net"
+            },
+            {
+                "label": "Los Angeles",
+                "email": "info@childrenoflight.net"
+            }
+        ]
+    },
+    "clients": {
+        "title": "Selected Clients",
+        "desktop": [
+            ["Adidas", "Asics", "C2h4", "Dazed", "Fiorucci", "Kappa", "Kenzo"],
+            ["Leisure Center", "Levis", "Li-ning", "Mastermind", "Misbhv", "Nike", "Nowness"],
+            ["Vans", "Vetements", "Vivienne Westwood", "Wallpaper", "Wsj", "Xander Zhou", "Y/project"]
+        ],
+        "mobile": [
+            ["Adidas", "Asics", "C2h4", "Dazed", "Fiorucci", "Kappa", "Kenzo", "Leisure Center", "Levis", "Li-ning", "Mastermind"],
+            ["Misbhv", "Nike", "Nowness", "Vans", "Vetements", "Vivienne Westwood", "Wallpaper", "Wsj", "Xander Zhou", "Y/project"]
+        ]
+    },
+    "socials": [
+        {
+            "label": "Instagram",
+            "url": "#"
+        },
+        {
+            "label": "Facebook",
+            "url": "#"
+        },
+        {
+            "label": "Wechat",
+            "url": "#"
+        }
+    ],
+    "copyright": "CHILDREN OF LIGHT © 2020"
+}
