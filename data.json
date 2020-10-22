@@ -9,7 +9,7 @@
         "emails": [
             {
                 "label": "Paris",
-                "email": "ting@childrenoflight.net"
+                "email": "info@childrenoflight.net"
             },
             {
                 "label": "Beijing",
@@ -20,18 +20,7 @@
                 "email": "info@childrenoflight.net"
             }
         ]
-    },
-    "clients": {
-        "title": "Selected Clients",
-        "desktop": [
-            ["Adidas", "Asics", "C2h4", "Dazed", "Fiorucci", "Kappa", "Kenzo"],
-            ["Leisure Center", "Levis", "Li-ning", "Mastermind", "Misbhv", "Nike", "Nowness"],
-            ["Vans", "Vetements", "Vivienne Westwood", "Wallpaper", "Wsj", "Xander Zhou", "Y/project"]
-        ],
-        "mobile": [
-            ["Adidas", "Asics", "C2h4", "Dazed", "Fiorucci", "Kappa", "Kenzo", "Leisure Center", "Levis", "Li-ning", "Mastermind"],
-            ["Misbhv", "Nike", "Nowness", "Vans", "Vetements", "Vivienne Westwood", "Wallpaper", "Wsj", "Xander Zhou", "Y/project"]
-        ]
+ 
     },
     "socials": [
         {
