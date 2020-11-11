@@ -8,19 +8,11 @@
         "title": "Contact",
         "emails": [
             {
-                "label": "Paris",
-                "email": "info@childrenoflight.net"
-            },
-            {
-                "label": "Beijing",
-                "email": "vicky@childrenoflight.net"
-            },
-            {
-                "label": "Los Angeles",
+                "label": "info@childrenoflight.net",
                 "email": "info@childrenoflight.net"
             }
         ]
- 
+
     },
     "socials": [
         {
